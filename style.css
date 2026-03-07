@@ -338,16 +338,12 @@ ul {
 
 .hero-img-1 {
   grid-column: 1 / -1;
-  background-image: url("https://images.pexels.com/photos/157811/pexels-photo-157811.jpeg");
+  background-image: url("assents/imagens/Foto\ engenheiro.jpg.jpeg");
 }
 
-.hero-img-2 {
-  background-image: url("https://images.pexels.com/photos/3214110/pexels-photo-3214110.jpeg");
-}
 
-.hero-img-3 {
-  background-image: url("https://images.pexels.com/photos/5854194/pexels-photo-5854194.jpeg");
-}
+
+
 
 /* Sections */
 .section {
